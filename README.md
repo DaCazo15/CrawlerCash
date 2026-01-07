@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="https://i.postimg.cc/vmTtGVrM/Conversor-Desktop.png" alt="Project logo">
+  <img width="200" height="200" src="https://i.postimg.cc/GmwvZf2F/Crawler-Cash.png" alt="Project logo">
 </p>
 
 # CrawlerCash
