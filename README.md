@@ -1,4 +1,8 @@
-# Conversor de Monedas TK
+<p align="center">
+  <img width="200" height="200" src="https://i.postimg.cc/vmTtGVrM/Conversor-Desktop.png" alt="Project logo">
+</p>
+
+# CrawlerCash
 
 Este es un proyecto de escritorio simple que convierte una cantidad de bolívares (VES) a diferentes monedas extranjeras. La aplicación obtiene las tasas de cambio más recientes del Banco Central de Venezuela (BCV) a través de web scraping.
 
